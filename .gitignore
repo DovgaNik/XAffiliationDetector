@@ -126,7 +126,9 @@ env/
 venv/
 ENV/
 env.bak/
-venv.bak/
+venv.bak0/
+scrapeX/.venv/
+model_run/.conda_env/
 
 # Spyder project settings
 .spyderproject
